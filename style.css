@@ -71,7 +71,7 @@ li {
     width: 269px;
     height: 95px;
     display: block;
-    margin-top: 190px;
+    margin-top: 177px;
 
 }
 .logodiv {
@@ -119,7 +119,7 @@ li {
     margin-top: 15px;
 }
 .buttons span:hover {
-    border: 1.5px solid #999;
+    border: 1.5px solid #b2b2b4;
     cursor: default;
 }
 .options {
@@ -162,4 +162,7 @@ li {
     margin-top: 10px;
     margin-right: 31px;
     color: #666;
+}
+.left li a:hover {
+    text-decoration: underline;
 }
